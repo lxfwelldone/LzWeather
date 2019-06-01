@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AMapFoundation-NO-IDFA (1.5.6)
+  - AMapLocation-NO-IDFA (2.6.2):
+    - AMapFoundation-NO-IDFA (~> 1.4)
+  - HandyJSON (4.2.1)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.2)
+  - AMapLocation-NO-IDFA (~> 2.6.2)
+  - HandyJSON (~> 4.2.1)
+  - SwiftyJSON (~> 4.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AMapFoundation-NO-IDFA
+    - AMapLocation-NO-IDFA
+    - HandyJSON
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AMapFoundation-NO-IDFA: 40d723b352992d0f95abe2976f0c0ecda3c3ffc3
+  AMapLocation-NO-IDFA: d7792c8c516f415e186f1bc25946f1a58ca6a583
+  HandyJSON: d0c5fc80204f29056d59d3e5c4587fa0b16b60a8
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 08a9471fecd0d743adf1c31d38e07c4d5edc8d4b
+
+COCOAPODS: 1.5.3
